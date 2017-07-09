@@ -77,3 +77,14 @@ img.opaco {
 p.info {
     line-height: 2.5;
 }
+
+.w3-black, .w3-hover-black:hover {
+    color: #fff!important;
+    font-weight: 600;
+    font-size: 6em;
+    background-color: rgba(0, 0, 0, 0)!important;
+    position: absolute;
+    width: 150%;
+    top: -100%;
+    left: -90%;
+}

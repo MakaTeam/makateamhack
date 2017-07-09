@@ -31,9 +31,14 @@
   <main>
     <!--Carrusel-->
     <div class="w3-display-container mySlides" align="center">
+      <div class="w3-black "></div>
       <img  class="grises" src="<?php echo base_url(); ?>assets/css/img/5.jpg" width="100%">
       <div class="w3-display-middle w3-large w3-container w3-padding-16">
         <img class="opaco" src="<?php echo base_url(); ?>assets/css/img/Logo_Maka_1.png" width="50%">
+        <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-black">
+          <h2>"Si no puedes ir a donde la gente es feliz trata de hacer más felíz a la gente donde estés" <br>
+          -Ashleigh Brilliant </h2>
+        </div>
       </div>
     </div>
 
