@@ -1,0 +1,49 @@
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+main {
+	flex: 1 0 auto;
+}
+.azulF{
+	color: #00659D;
+}
+.azulC{
+	color: #00ABBC;
+}
+.dorado{
+	color: #E2C58B;
+}
+.rosa{
+	color: #FC8990;
+}
+.fiusha{
+	color: #B35E7F;
+}
+.azulFB{
+	background-color: #00659D;
+}
+.azulCB{
+	background-color: #00ABBC;
+}
+.doradoB{
+	background-color: #E2C58B;
+}
+.rosaB{
+	background-color: #FC8990;
+}
+.fiushaB{
+	background-color: #B35E7F;
+}
+.margen3{
+	margin: 0 .3em;
+}
+.fa-3x {
+    margin: 0 0.3em;
+}
+/*Botones*/
+a.waves-effect.waves-light.btn {
+    background-color: #b35e7f;
+}
