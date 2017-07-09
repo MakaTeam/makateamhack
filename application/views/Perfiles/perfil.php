@@ -53,20 +53,24 @@
     
     <div class="row">
       <div class="col l7">
-        <img class="mapa" src="<?php echo base_url() ?>assets/css/img/mapa2.png" alt="">
+        <img class="mapa" src="<?php echo base_url() ?>assets/css/img/mapa.jpg" alt="">
       </div>
       <div class="col l5">
-        <div class="card cardPerfil">
-          <div class="card-image">
-            <img src="<?php echo base_url() ?>assets/css/img/1.jpg">
-            <span class="card-title">Nombre Asociación</span>
-          </div>
-          <div class="card-content">
-            <p>I am a very simple card. I am good at containing small bits of information.
-            I am convenient because I require little markup to use effectively.</p>
-          </div>
-          <div class="card-action">
-            <a href="<?php echo base_url()."index.php/" ?>Perfil?tipo_usuario=2">Donar</a>
+        <div class="row">
+          <div class="col l7 ">
+            <div class="card">
+              <div class="card-image">
+                <img src="<?php echo base_url() ?>assets/css/img/1.jpg">
+                <span class="card-title">Nombre Asociación</span>
+              </div>
+              <div class="card-content">
+                <p>I am a very simple card. I am good at containing small bits of information.
+                I am convenient because I require little markup to use effectively.</p>
+              </div>
+              <div class="card-action">
+                <a href="<?php echo base_url()."index.php/" ?>Perfil?tipo_usuario=2"">Ver</a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
