@@ -124,6 +124,12 @@
         </table>
       </div>
     </div>
+    <div class="row">
+      <div class="col l12" align="center">
+        <h1>Donaciones</h1>
+        <img src="<?php echo base_url() ?>assets/css/img/paypal.png" width="200px">
+      </div>
+    </div>
     </main>
     <!--Footer-->
     <footer class="page-footer azulFB">
